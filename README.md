@@ -37,7 +37,7 @@ Once you have created the app, navigate to the root folder of the app. From here
 
 
 
-You can reference the CRA Documentation and the Getting Started page here: [Create React App - Getting Started](https://create-react-app.dev/docs/getting-started).
+You can reference the CRA Documentation and the Getting Started page here: [Create React App - Getting Started](https://.create-react-app.dev/docs/getting-started).
 
 <br>
 
